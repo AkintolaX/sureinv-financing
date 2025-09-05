@@ -4,7 +4,7 @@
 
 A decentralized invoice financing platform that uses AI-powered risk assessment to match businesses with investors while providing built-in default insurance for both parties.
 
-![InvoiceSure Demo](https://img.shields.io/badge/Status-Grant%20Application%20Ready-success)
+![SureInv Demo](https://img.shields.io/badge/Status-Grant%20Application%20Ready-success)
 ![Solana](https://img.shields.io/badge/Solana-Devnet-purple)
 ![Anchor](https://img.shields.io/badge/Anchor-v0.30.0-blue)
 
@@ -14,7 +14,7 @@ https://sureinv-financing.vercel.app/
 
 ## **Overview**
 
-InvoiceSure solves the $3 trillion invoice financing market's key problems:
+SureInv solves the $3 trillion invoice financing market's key problems:
 - **Risk Assessment**: AI-powered risk scoring with multiple factors
 - **Insurance Protection**: Built-in default insurance (60-90% coverage)
 - **Global Access**: Anyone can invest in invoice financing
